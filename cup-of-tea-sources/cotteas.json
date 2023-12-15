@@ -1,0 +1,590 @@
+[{
+  "_id": {
+    "$oid": "638de3c9a45c84e377c91d60"
+  },
+  "ref": 270160,
+  "name": "Blue of London",
+  "category": "Thé noir",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product3.jpg",
+  "img_big": "product3_big.jpg",
+  "orders_count": 150,
+  "stock": 200,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 9,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de3c9a45c84e377c91d61"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 45,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de3c9a45c84e377c91d62"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 90,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de3c9a45c84e377c91d63"
+      }
+    }
+  ],
+  "mini_desc": "Thé noir à la bergamote"
+},{
+  "_id": {
+    "$oid": "638de45fc69fd204a75bb23d"
+  },
+  "ref": 270170,
+  "name": "Thé des lords",
+  "category": "Thé noir",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product6_big.jpg",
+  "img_big": "product6_big.jpg",
+  "orders_count": 10,
+  "stock": 5,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 8.2,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de45fc69fd204a75bb23e"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 41,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de45fc69fd204a75bb23f"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 82,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de45fc69fd204a75bb240"
+      }
+    }
+  ],
+  "mini_desc": "Thé noir aux epices"
+},{
+  "_id": {
+    "$oid": "638de4ddc661c01dd93f8c62"
+  },
+  "ref": 270180,
+  "name": "Thé des vahinés",
+  "category": "Thé noir",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product7_big.jpg",
+  "img_big": "product7_big.jpg",
+  "orders_count": false,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 9.4,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de4ddc661c01dd93f8c63"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 47,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de4ddc661c01dd93f8c64"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 94,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de4ddc661c01dd93f8c65"
+      }
+    }
+  ],
+  "stock": 100,
+  "mini_desc": "Thé noir aux epices"
+},{
+  "_id": {
+    "$oid": "638de558ad17aee13e0156a0"
+  },
+  "ref": 270230,
+  "name": "Thé du hammam",
+  "category": "Thé vert",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product1.jpg",
+  "img_big": "product1_big.jpg",
+  "orders_count": 12,
+  "stock": 500,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 8.4,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de558ad17aee13e0156a1"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 42,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de558ad17aee13e0156a2"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 84,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de558ad17aee13e0156a3"
+      }
+    }
+  ],
+  "mini_desc": "Thé vert aux epices"
+},{
+  "_id": {
+    "$oid": "638de5dcfce35ad8292049b6"
+  },
+  "ref": 270250,
+  "name": "Vive le thé !",
+  "category": "Thé vert",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product4_big.jpg",
+  "img_big": "product4_big.jpg",
+  "orders_count": 5,
+  "stock": 602,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 6.8,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de5dcfce35ad8292049b7"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 34,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de5dcfce35ad8292049b8"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 68,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de5dcfce35ad8292049b9"
+      }
+    }
+  ],
+ 
+  "mini_desc": "Thé vert aux epices"
+},{
+  "_id": {
+    "$oid": "638de63a744b56f74bc87594"
+  },
+  "ref": 270270,
+  "name": "Thé des alizés",
+  "category": "Thé vert",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product5_big.jpg",
+  "img_big": "product5_big.jpg",
+  "orders_count": 3,
+  "stock": 120,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 9.3,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de63a744b56f74bc87595"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 46.5,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de63a744b56f74bc87596"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 93,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de63a744b56f74bc87597"
+      }
+    }
+  ],
+  "mini_desc": "Thé vert aux epices"
+},{
+  "_id": {
+    "$oid": "638de79948a87c7b3cc7db56"
+  },
+  "ref": 270310,
+  "name": "Vive les fetes",
+  "category": "Oolong",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product8_big.jpg",
+  "img_big": "product8_big.jpg",
+  "orders_count": 55,
+  "stock": 63,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 11.1,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de79948a87c7b3cc7db57"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 55.1,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de79948a87c7b3cc7db58"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 111,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de79948a87c7b3cc7db59"
+      }
+    }
+  ],
+  "mini_desc": "Thé Oolong aux epices"
+},{
+  "_id": {
+    "$oid": "638de81e2870715259ac5a7a"
+  },
+  "ref": 270320,
+  "name": "Fleur d'oranger Oolong",
+  "category": "Oolong",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product9_big.jpg",
+  "img_big": "product9_big.jpg",
+  "orders_count": 14,
+  "stock": 100,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 10.9,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de81e2870715259ac5a7b"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 54.5,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de81e2870715259ac5a7c"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 109,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de81e2870715259ac5a7d"
+      }
+    }
+  ],
+  "mini_desc": "Thé Oolong à la fleur d'oranger"
+},{
+  "_id": {
+    "$oid": "638de8acd1c6a7a6b581baf8"
+  },
+  "ref": 270330,
+  "name": "Oolong 7 agrumes",
+  "category": "Oolong",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product10_big.jpg",
+  "img_big": "product10_big.jpg",
+  "orders_count": false,
+  "stock": false,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 13.2,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de8acd1c6a7a6b581baf9"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 65.6,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de8acd1c6a7a6b581bafa"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 132,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de8acd1c6a7a6b581bafb"
+      }
+    }
+  ],
+  "mini_desc": "Thé Oolong aux fruits"
+},{
+  "_id": {
+    "$oid": "638de925ba54d9e016002aab"
+  },
+  "ref": 270540,
+  "name": "Thé des songes blanc",
+  "category": "Thé blanc",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product11_big.jpg",
+  "img_big": "product11_big.jpg",
+  "orders_count": 142,
+  "stock": 200,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 12,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de925ba54d9e016002aac"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 60,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de925ba54d9e016002aad"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 120,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de925ba54d9e016002aae"
+      }
+    }
+  ],
+ 
+  "mini_desc": "Thé blanc aux epices"
+},{
+  "_id": {
+    "$oid": "638de96eac9cf025c8999207"
+  },
+  "ref": 270560,
+  "name": "Bai mu dan",
+  "category": "Thé blanc",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product12_big.jpg",
+  "img_big": "product12_big.jpg",
+  "orders_count": 100,
+  "stock": 100,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 9.5,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de96eac9cf025c8999208"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 47.5,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de96eac9cf025c8999209"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 95,
+      "remise": 0,
+      "_id": {
+        "$oid": "638de96eac9cf025c899920a"
+      }
+    }
+  ],
+ 
+  "mini_desc": "Thé blanc aux epices"
+},{
+  "_id": {
+    "$oid": "638dea2928761e1d4d58512f"
+  },
+  "ref": 270570,
+  "name": "Auguilles d'argent",
+  "category": "Thé blanc",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product13_big.jpg",
+  "img_big": "product13_big.jpg",
+  "orders_count": 20,
+  "stock": 200,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 47.2,
+      "remise": 0,
+      "_id": {
+        "$oid": "638dea2928761e1d4d585130"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 236,
+      "remise": 0,
+      "_id": {
+        "$oid": "638dea2928761e1d4d585131"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 472,
+      "remise": 0,
+      "_id": {
+        "$oid": "638dea2928761e1d4d585132"
+      }
+    }
+  ],
+ 
+  "mini_desc": "Thé blanc aux epices"
+},{
+  "_id": {
+    "$oid": "638dea90de5150f7d32e89fa"
+  },
+  "ref": 270660,
+  "name": "Rooibos à la verveine",
+  "category": "Rooibos",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product14_big.jpg",
+  "img_big": "product14_big.jpg",
+  "orders_count": 41,
+  "stock": 59,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 7,
+      "remise": 0,
+      "_id": {
+        "$oid": "638dea90de5150f7d32e89fb"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 35,
+      "remise": 0,
+      "_id": {
+        "$oid": "638dea90de5150f7d32e89fc"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 70,
+      "remise": 0,
+      "_id": {
+        "$oid": "638dea90de5150f7d32e89fd"
+      }
+    }
+  ],
+  "mini_desc": "Thé rooibos aux epices"
+},{
+  "_id": {
+    "$oid": "638deabd3df2811e764c6f33"
+  },
+  "ref": 270660,
+  "name": "Spicy Passion",
+  "category": "Rooibos",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product15_big.jpg",
+  "img_big": "product15_big.jpg",
+  "orders_count": 63,
+  "stock": 100,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 9,
+      "remise": 0,
+      "_id": {
+        "$oid": "638deabd3df2811e764c6f34"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 45,
+      "remise": 0,
+      "_id": {
+        "$oid": "638deabd3df2811e764c6f35"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 90,
+      "remise": 0,
+      "_id": {
+        "$oid": "638deabd3df2811e764c6f36"
+      }
+    }
+  ],
+  "mini_desc": "Thé rooibos aux epices"
+},{
+  "_id": {
+    "$oid": "638deb0030c97bc7b1891af6"
+  },
+  "ref": 270690,
+  "name": "Rooibos des amants",
+  "category": "Rooibos",
+  "description": "le ... est un ... d'exception qui associe un des meilleurs thés noirs au monde, le Yunnan, et une bergamote fraîche et délicate. Un mélange remarquable d'équilibre et de finesse. /n Le ... est un grand classique anglais, depuis que Charles Grey, comte (earl en anglais) de Falodon et Ministre des Affaires étrangères du Royaume britannique au milieu du XIX ème siècle, reçut d'un mandarin chinois une vieille recette consistant à aromatiser son thé avec de la bergamote.",
+  "img_min": "product16_big.jpg",
+  "img_big": "product16_big.jpg",
+  "orders_count": 30,
+  "stock": 100,
+  "conditioning": [
+    {
+      "libelle": "Pochette de 100g",
+      "price": 8.2,
+      "remise": 0,
+      "_id": {
+        "$oid": "638deb0030c97bc7b1891af7"
+      }
+    },
+    {
+      "libelle": "Pochette de 500g",
+      "price": 41,
+      "remise": 0,
+      "_id": {
+        "$oid": "638deb0030c97bc7b1891af8"
+      }
+    },
+    {
+      "libelle": "Pochette de 1kg",
+      "price": 82,
+      "remise": 0,
+      "_id": {
+        "$oid": "638deb0030c97bc7b1891af9"
+      }
+    }
+  ],
+  "mini_desc": "Thé rooibos aux epices"
+}]

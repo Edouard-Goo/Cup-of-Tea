@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "6523c17151c08de6553baea8"
+  },
+  "userId": "65228ab328ef20372ca2a8b7",
+  "date": {
+    "$date": "2023-10-09T09:01:37.702Z"
+  },
+  "items": [
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 500g",
+      "price": 45,
+      "_id": {
+        "$oid": "6523c17151c08de6553baea9"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeaa"
+      }
+    },
+    {
+      "ref": "270330",
+      "conditioning": "Pochette de 1kg",
+      "price": 132,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeab"
+      }
+    },
+    {
+      "ref": "270330",
+      "conditioning": "Pochette de 1kg",
+      "price": 132,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeac"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523c17151c08de6553baead"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeae"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeaf"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeb0"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523c17151c08de6553baeb1"
+      }
+    }
+  ],
+  "total_price": 363,
+  "createdAt": {
+    "$date": "2023-10-09T09:01:37.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-09T09:01:37.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6523d0d4a1a8aaecb9d1c670"
+  },
+  "userId": "65228ab328ef20372ca2a8b7",
+  "date": {
+    "$date": "2023-10-09T10:07:16.381Z"
+  },
+  "items": [
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 500g",
+      "price": 45,
+      "_id": {
+        "$oid": "6523d0d4a1a8aaecb9d1c671"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523d0d4a1a8aaecb9d1c672"
+      }
+    },
+    {
+      "ref": "270330",
+      "conditioning": "Pochette de 1kg",
+      "price": 132,
+      "_id": {
+        "$oid": "6523d0d4a1a8aaecb9d1c673"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523d0d4a1a8aaecb9d1c674"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523d0d4a1a8aaecb9d1c675"
+      }
+    },
+    {
+      "ref": "270160",
+      "conditioning": "Pochette de 100g",
+      "price": 9,
+      "_id": {
+        "$oid": "6523d0d4a1a8aaecb9d1c676"
+      }
+    }
+  ],
+  "total_price": 213,
+  "createdAt": {
+    "$date": "2023-10-09T10:07:16.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-09T10:07:16.412Z"
+  },
+  "__v": 0
+}]

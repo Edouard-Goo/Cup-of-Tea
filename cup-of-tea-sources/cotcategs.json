@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "638dd11806c4447cef545439"
+  },
+  "name": "Thé noir",
+  "description": "Le thé noir, que les chinois appellent thé rouge en référence à la couleur cuivrée de son infusion, est un thé complètement oxydé. La fabrication du thé noir se fait en cinq étapes : le flétrissage, le roulage, l'oxydation, la torréfaction et le triage. Cette dernière opération permet de différencier les différents grades",
+  "img": "1.jpg"
+},{
+  "_id": {
+    "$oid": "638dd1c5528f85398ef5e077"
+  },
+  "name": "Thé vert",
+  "description": "Réputé pour ses nombreuses vertus grâce à sa richesse en antioxydants, le thé vert désaltère, tonifie, apaise, fortifie, et procure une incontestable sensation de bien-être. Délicat et peu amer, il est apprécié à tout moment de la journée et propose une palette d'arômes très variés : végétal, minéral, floral, fruité.",
+  "img": "2.jpg"
+},{
+  "_id": {
+    "$oid": "638dd20bb959f6632d9d2211"
+  },
+  "name": "Oolong",
+  "description": "Les Oolong, que les chinois appellent thés bleu-vert en référence à la couleur de leurs feuilles infusées, sont des thés semi-oxydés : leur oxydation n'a pas été menée à son terme. Spécialités de Chine et de Taïwan, il en existe une grande variété, en fonction de la région de culture, de l'espèce du théier ou encore du processus de fabrication.",
+  "img": "3.jpg"
+},{
+  "_id": {
+    "$oid": "638dd225b59dc7aef4f13c7c"
+  },
+  "name": "Thé blanc",
+  "description": "Le thé blanc est une spécialité de la province chinoise du Fujian. De toutes les familles de thé, c'est celle dont la feuille est la moins transformée par rapport à son état naturel. Non oxydé, le thé blanc ne subit que deux opérations : un flétrissage et une dessiccation. Il existe deux grands types de thés blancs : les Aiguilles d'Argent et les Bai Mu Dan.",
+  "img": "4.jpg"
+},{
+  "_id": {
+    "$oid": "638dd2428d1c18538cf8f9e0"
+  },
+  "name": "Rooibos",
+  "description": "Le Rooibos (appelé thé rouge bien qu'il ne s'agisse pas de thé) est une plante poussant uniquement en Afrique du Sud et qui ne contient pas du tout de théine. Son infusion donne une boisson très agréable, ronde et légèrement sucrée. Riche en antioxydants, faible en tanins et dénué de théine, le Rooibos peut être dégusté en journée comme en soirée.",
+  "img": "5.jpg"
+}]
